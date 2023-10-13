@@ -139,7 +139,7 @@ a:focus {
 
 .main_nav {
   position: relative;
-  z-index: 9;
+  z-index: 3;
 }
 
 .main_nav .top_nav ul {
